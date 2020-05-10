@@ -1,0 +1,8 @@
+[
+	{"path":"MATH/octal_transcript/255to1","name":"255to1","number_x":1,"number_y":1,"model_path":"MATH/octal_transcript/255to1/255to1.model","loader_path":"MATH/octal_transcript/255to1/255to1.py"},
+	{"path":"MATH/divfactuniv_RFP","name":"divfactuniv_RFP","number_x":1,"number_y":1,"model_path":"MATH/divfactuniv_RFP/uni-divfact-D.model","loader_path":""},
+	{"path":"MATH/nzabs","name":"nzabs","number_x":1,"number_y":1,"model_path":"MATH/nzabs/nzabs.model","loader_path":""},
+	{"path":"MATH/pos-flat-convertor","name":"pos-flat-convertor","number_x":1,"number_y":1,"model_path":"MATH/pos-flat-convertor/pos-flat-convertor.model","loader_path":""},
+	{"path":"MATH/rules_models","name":"rules_models","number_x":1,"number_y":1,"model_path":"MATH/rules_models/valuesgol.model","loader_path":""},
+	{"path":"MATH/warp","name":"warplumiere","number_x":1,"number_y":1,"model_path":"MATH/warp/warplumiere-v1.model","loader_path":""}
+]
